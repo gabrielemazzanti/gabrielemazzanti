@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @gabrielemazzanti 
-- 👀 I’m interested in IT, coding, IoT
-- 🌱 I’m currently attending high school
+I'm Gabriele Mazzanti
